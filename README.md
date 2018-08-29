@@ -8,7 +8,7 @@ You can also see our presentations slides here:
 https://docs.google.com/presentation/d/1sStB9SupVq1PYPNhJ0Ew6jQXE6u-0ndHw5-DdRqxPVQ/edit?usp=sharing
 
 The backend can be found here:
-https://github.com/kylefix/swipe-commerce_backend
+https://github.com/vishalgautamm/swipeCommerce-backend
 
 ![alt screenshot](https://image.ibb.co/f4cb59/Screen_Shot_2018_08_27_at_6_48_58_PM.png)
 
