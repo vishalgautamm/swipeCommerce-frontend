@@ -1,5 +1,5 @@
 # Swipe Commerce
-This was me, Kyle Khoury and Vishal Gautam's final project for DecodeMTL bootcamp.
+This was me, Vishal Gautam and Kyle Khoury's final project for DecodeMTL bootcamp.
 
 A demo video can be found here:
 https://www.youtube.com/playlist?list=PLZDpLpySTFNV5dTHvKmUmw_6GblpxJisU
